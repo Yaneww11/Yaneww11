@@ -2,7 +2,7 @@
 
 
 
-[![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.https://www.facebook.com/yane.yanev.3/)
+[![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/yane.yanev.3/?locale=bg_BG)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yaneww11//) 
 
 
