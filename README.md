@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning: Python<br>🎯 Goals: Become a proficient Python developer, leveraging my passion for programming to contribute meaningfully to software development projects.<br>🎲 Fun fact: I'm passionate about football and gaming, finding joy in both the thrill of the game and connecting with others through lively conversations and competitive play.</p>
+<p align="left">✨ Creating bugs since I pressed play on my coding adventure! 🕹️ Turning programming puzzles into playful bug hunts!<br>📚 I'm currently learning: Python<br>🎯 Goals: Become a proficient Python developer, leveraging my passion for programming to contribute meaningfully to software development projects.<br>🎲 Fun fact: I'm passionate about football and gaming, finding joy in both the thrill of the game and connecting with others through lively conversations and competitive play.</p>
 
 ###
 
