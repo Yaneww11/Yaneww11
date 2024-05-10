@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌟 Delving into the backend world, I'm drawn to the challenge of architecting robust systems and optimizing data flow<br>📚 I'm currently learning: Python<br>🎯 Goals: Become a proficient Python developer, leveraging my passion for programming to contribute meaningfully to software development projects.<br>🎲 Fun fact: I'm passionate about football and gaming, finding joy in both the thrill of the game and connecting with others through lively conversations and competitive play.
+<p align="left">🌟 Delving into the backend world, I'm drawn to the challenge of architecting robust systems and optimizing data flow<br>📚 I'm currently learning: Python<br>🎯 Goals: Become a proficient Python developer, leveraging my passion for programming to contribute meaningfully software development projects.<br>🎲 Fun fact: I'm passionate about football and gaming, finding joy in both the thrill of the game and connecting with others through lively conversations and competitive play.
 
 ###
 
