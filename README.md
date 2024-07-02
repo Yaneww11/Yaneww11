@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm majoring in Informatics at <b></b>New Bulgarian University</b><br>💻 Currently working as Hardware Technician at HCL Tech<br>⚽ Fun fact: I'm passionate about football
+<p align="left">📚 I'm majoring in Informatics at <b>New Bulgarian University</b><br>💻 Currently working as <b>Hardware Technician</b>b> at HCL Tech<br>⚽ Fun fact: I'm passionate about <b>football</b>b>
 
 ###
 
