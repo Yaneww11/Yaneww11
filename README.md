@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌟 Delving into the backend world, I'm drawn to the challenge of architecting robust systems and optimizing data flow<br>📚 I'm currently learning: Python<br>🎯 Goals: Become a proficient Python developer, leveraging my passion for programming to contribute meaningfully software development projects.<br>🎲 Fun fact: I'm passionate about football and gaming
+<p align="left">📚 I'm majoring in Informatics at New Bulgarian University<br>💻 Currently working as Hardware Technician at HCL Tech<br>>⚽ Fun fact: I'm passionate about football
 
 ###
 
